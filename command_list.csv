@@ -1,0 +1,16 @@
+  343  git push
+  344  git branch 
+  345  git checkout -b develop
+  346  git branch
+  347  touch develop_test.txt
+  348  git add develop_test.txt
+  349  git commit -m develop_test.txt
+  350  git commit -m "some_comment"
+  351  vim develop_test.txt
+  352  vim develop_test.txt
+  353  git add develop_test.txt\n
+  354  git commit -m "some_comment"
+  355  git status
+  356  git checkout main
+  357  git merge develop
+  358  git log
